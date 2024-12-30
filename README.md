@@ -21,7 +21,8 @@ Fine-tune the model on the dataset for summarization tasks.
 Fine-Tuning:
 Fine-tune the datasets from Hugging Face, (abisee/cnn_dailymail)
 
-Save the Model: Store the fine-tuned model locally or upload to Hugging Face Model Hub.
+Save the Checkpoints: Store the checkpoints to Hugging Face Model Hub.
+Save the Model: Store the fine-tuned model to Hugging Face Model Hub.
 
 ## 4. Evaluation
 Metrics: Use ROUGE and BLEU scores to evaluate the summarization quality.
